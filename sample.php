@@ -1,3 +1,3 @@
 <?php
 
-echo "Sample";
+echo "Sample text file";
